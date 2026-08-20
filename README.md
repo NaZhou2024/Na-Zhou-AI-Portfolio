@@ -1,2 +1,2 @@
 # jupyter-exploration
-Computer Vision Class
+Computer Vision Class Lab session
